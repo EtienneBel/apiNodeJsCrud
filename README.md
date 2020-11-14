@@ -9,8 +9,7 @@ then when the repository has been cloned:
 
 ```
 cd your-destination-folder
-npm install # installing the dependencies
-npm start # or 'node .'
+nodemon server
 ```
 
 
